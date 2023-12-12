@@ -56,3 +56,11 @@ stages:
     metrics:
     - scores.json:
         cache: false
+
+
+# to run dvc 
+# dvc init
+
+# dvc repro
+
+# dvc dag
